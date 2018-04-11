@@ -22,5 +22,5 @@ int main(void)
 	}
 
 	printf(" = %lf \n", sum);
-	return 0;
+	return 0; 
 }
